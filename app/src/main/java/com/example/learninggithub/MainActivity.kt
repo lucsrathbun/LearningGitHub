@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val x = 10
-        val word = "perspicacious"
+        val word = "perspicacity"
     }
 }
