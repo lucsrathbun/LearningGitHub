@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         val x = 10
         val word = "perspicacity"
+        //here are more changes
     }
 }
